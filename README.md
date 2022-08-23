@@ -1,2 +1,2 @@
 # proxyserver
-Java Proxy  with netty: Mssql - Postgres - HHTO
+Java Proxy  with netty: Mssql - Postgres - HTTP
